@@ -1,0 +1,26 @@
+{
+  "name": "hw35",
+  "version": "1.0.0",
+  "description": "Создайте функцию counter, которая будет создавать счетчик и иметь один необязательный параметр типа number. Вызов функции должен возвращать объект (счетчик) с тремя методами: increase, decrease, value.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrianapopp/hw35.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrianapopp/hw35/issues"
+  },
+  "homepage": "https://github.com/andrianapopp/hw35#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.39.0",
+    "eslint-plugin-react": "^7.32.2"
+  }
+}
